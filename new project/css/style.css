@@ -1,0 +1,53 @@
+body {
+    background-color: orange;
+
+    display: flex;
+    justify-content: center;
+    
+    
+}  
+h1 {
+    text-align: center;
+    background-color: white;
+    font-family: "New Amsterdam", sans-serif;
+}
+
+.formulario-principal {
+    
+    
+    background-image: url('../Naruto_Uzumaki_HD.webp'); /* Cambia la ruta a tu imagen */
+    background-position: center;
+    background-size: cover; /* Ajusta la imagen para que cubra el contenedor */
+    background-repeat: no-repeat;
+    width: 100%; /* Ajusta el tamaño del contenedor */
+    max-width: 1000px; /* Limita el tamaño máximo del contenedor */
+    height: 40vh; /* Ajusta la altura del contenedor */
+    max-height: 600px; /* Limita la altura máxima del contenedor */
+    padding: 5rem; /* Espaciado interno del contenedor */
+    border-radius: 8px; /* Bordes redondeados (opcional) */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* Sombra (opcional) */
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 30px;
+    
+    
+
+    
+}
+label {
+    background-color: orange;
+}
+
+button {
+    background-color: beige;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
